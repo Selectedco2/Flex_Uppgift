@@ -1,0 +1,25 @@
+
+Body{
+    background-color:#35424a;
+}
+
+.rubrik{
+    color: rgba(208, 52, 0.961);
+    margin-right: 7px;
+    margin-left: 100px;
+}
+
+.branding{
+    display:flex;
+    flex-direction: row;
+
+}
+
+.container{
+
+}
+
+.rubrik_2{
+    color: white;
+
+}
